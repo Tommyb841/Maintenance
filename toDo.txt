@@ -1,0 +1,7 @@
+install node packages
+create directories
+outliine models
+set up data base
+set up nfc tags
+
+

@@ -1,0 +1,11 @@
+{
+  "name": "maintenance",
+  "version": "1.0.0",
+  "description": "this application is used to help track maintenance work around a building",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Brown",
+  "license": "ISC"
+}
